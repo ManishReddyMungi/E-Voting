@@ -1,2 +1,9 @@
-# E-Voting
-This project aims to  developing a secure, convenient voting system that allows citizens to vote from home, ensuring the integrity and transparency of the election process
+# __How to run this on your local work machine__
+
+```shell
+git clone https://github.com/a12baghel2/Electronic-Voting-System-backend
+
+```
+
+Import this project in your eclipse workspace and you are good to go.
+
